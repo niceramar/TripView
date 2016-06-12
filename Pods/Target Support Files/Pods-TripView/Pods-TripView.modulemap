@@ -1,0 +1,6 @@
+framework module Pods_TripView {
+  umbrella header "Pods-TripView-umbrella.h"
+
+  export *
+  module * { export * }
+}
